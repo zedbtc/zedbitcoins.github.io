@@ -1,0 +1,34 @@
+body{
+	background-image:url("btc.jpg");
+    position:center;
+    background-size:cover;
+}
+header{
+	background-color:rgba(44.60.40.30);
+    width:230px;
+	height:610px;
+	position:center;
+}
+h1{
+	color:green;
+	position;center;
+	
+}
+.nav-area h1 a:hover{
+	size:60px;
+	position:center;
+	background:white;
+}
+label{
+	color:green;
+	
+	
+}
+.checkbox{
+	
+	color:green;
+}
+.panel-footer{
+	color:green;
+	
+}

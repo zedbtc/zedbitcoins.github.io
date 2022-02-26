@@ -1,0 +1,24 @@
+body{
+margin:0 auto;
+background-image:url("IMAGES/BG.jpg");
+background-repeat:no-repeat;
+background-size:100% 720px;
+}
+.container{
+	width:500px;
+	height:450px;
+	text-align:center;
+	background-color:rgba(44.60.40.30);
+	bolder-radius;04px;
+	margin:0 auto;
+	margin-top:160px;
+}
+.container img{
+	height:100px;
+	width:160px;
+	text-align:center;
+	margin-right:60px;
+	margin-top:30px;
+}
+	
+	

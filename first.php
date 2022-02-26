@@ -1,0 +1,10 @@
+<HTML>
+<HEAD>LOOKING GOOD
+</HEAD>
+<BODY>
+
+<? PHP
+PRINT "MY FIRST PHP"
+?>
+</BODY>
+</HTML> 

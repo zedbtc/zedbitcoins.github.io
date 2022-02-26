@@ -1,0 +1,86 @@
+*{
+	margin:0;
+	padding:0;
+}
+.wrapper{
+	width:auto;
+	height:auto;
+}
+header{
+	background:linear-gradient( rgba(0,0,0,0.6),rgba(0,0,0,0.6) )  ,url("cyber.jpg");
+height:100vh;
+width:1000px;
+background-size:cover;
+background-size:cover;
+background-position:center center;	
+}
+.nav-area{
+	float:center;
+	list-style:none;
+	margin-top:20px;
+	
+}
+.nav-area li{
+	display:inline-block;
+
+}
+.nav-area a{
+	color:#fff;
+	text-decoration:none;
+	padding:10px 15px ;
+	font-family:poppins;
+	font-size:30px;
+}
+.nav-area li a:hover{
+	background:#fff;
+	color:#333;
+
+}
+
+.welcome-text{
+	position:absolute;
+	width:600px;
+	height:300px;
+	margin:20% 30%;
+	text-align:center;
+}
+
+.welcome-text h1,h6
+{
+	text-align:center;
+	color:#fff;
+	text-transform:uppercase;
+	font-size:30px;
+}
+.button{
+color:green;
+text-align:center;
+background-color:rgba(44.60.40.30);
+
+}
+
+
+BODY{
+	background-color:rgba(44.60.40.30);
+}
+p1{
+ text-align:center;
+	font-size:25px;
+	color:#fff;
+	height:auto;
+	width:auto;
+}
+p4{
+	background-image:url("btc.jpg");
+	font-size:30px;
+	text-transform:uppercase;
+}
+p4 a:hover{
+    color:#fff;
+	text-transform:uppercase;
+	float:center;
+}h5,p5{
+	text-transform:uppercase;
+	color:green;
+	size:80%;
+}

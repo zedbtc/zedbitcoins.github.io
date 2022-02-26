@@ -1,0 +1,55 @@
+<!doctype html>
+<head>
+<title>regstarionform</title>
+<link rel="stylesheet"href="register.css">
+</head>
+<body>
+<header>
+<div class="container">
+<h1>user regstration form</h1>
+<div class="panel-body">
+<form action="connect.php"method="post">
+<div class="form-group">
+<label for="firstname">first name</label><BR>
+<input type="text"class="form-control"id="firstname"name="firstname"required/>
+</div>
+<div class="form-group">
+<label for="lastname">last name</label><BR>
+<input type="text"class="form-control"id="lastname"name="lastname"required/>
+</div>
+<div class="form-group">
+<label for="gender">gender</label>
+<div>
+<label for="male"class="radio-inline"><input type="radio"name="gender"id="male">male</label>
+<label for="female"class="redio-inline"><input type="radio"name="gender"id="female">female</label>
+<label for="uknown"class="radio-inline"><input type="radio"name="gender" id="uknown">unknown</label>
+</div>
+</div>
+<div class="form-group">
+<label for="email">email address</label>
+<input type="text"class="form-control"name="email"id="email"required/>
+</div>
+<div class="form-group">
+<label for="password">password</label><BR>
+<input type="text"class="form-control"name="password"id="password"required/>
+</div>
+<div class="form-group">
+<label for="number">phone number</label>
+<input type="text"class="form-control"id="number"name="number"required/>
+</div>
+<input type="submit"class="btn btn-primary">
+<br><br>
+
+
+
+<h1>do you have an account?</h1>
+<a href="login.html"><input type="button"value="login"></a>
+
+<div class="panel-footer">
+<h1>&copy;zedbitcoins</h1>
+</div>
+</form>
+</div>
+</div>
+</header>
+</body>

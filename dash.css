@@ -1,0 +1,21 @@
+body{
+background-image:url("btc.jpg");
+position:center;
+background-size:cover;
+}h1{
+	text-align:center;
+	color:green;
+}
+header{
+	width:230px;
+	height:400px;
+	background-color:rgba(44.60.40.30);
+position:center;    
+
+}
+h2{
+	background-color:rgba(44.60.40.30);
+	text-align:center;
+	color:green;
+	height:60px;
+}
